@@ -47,9 +47,7 @@ Output: Display the translated text instantly in the UI.
 
 📦 Installation
 
-# Clone the repository
-git clone https://github.com/yourusername/LCEL-Language-Translator.git
-cd LCEL-Language-Translator
+
 
 # Create and activate a virtual environment
 python -m venv venv
