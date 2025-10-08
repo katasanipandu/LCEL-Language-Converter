@@ -63,11 +63,12 @@ Create a .env file in the project root:
 GROQ_API_KEY=your_groq_api_key_here
 ⚠ Never share your .env file or commit it to GitHub.
 
+url:https://lcel-language-converter.onrender.com/
+
 ▶️ Usage
 Run the app locally:
-
-
 streamlit run langconv.py
+
 Open your browser and navigate to http://localhost:8501.
 📌 Example
 Input:
