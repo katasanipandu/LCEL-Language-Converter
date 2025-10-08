@@ -69,8 +69,6 @@ Run the app locally:
 
 streamlit run langconv.py
 Open your browser and navigate to http://localhost:8501.
-
-url : https://lcel-language-converter.onrender.com/
 📌 Example
 Input:
 Hello, how are you? I hope you are doing well.
